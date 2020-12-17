@@ -1,0 +1,32 @@
+body{
+    background-color: lightgray;
+}
+
+.header-navigation ul{
+    list-style: none;
+}
+
+.header-navigation li{
+    display: inline;
+    border: solid 1px black;
+    
+}
+
+.header{
+    margin: 20px;
+}
+
+.content{
+    background-color:whitesmoke;
+    margin: 20px;
+    padding: 5px;
+}
+
+.side-image{
+    width: 300px;
+    height: auto;
+}
+
+.floating{
+    float: right;
+}
